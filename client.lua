@@ -1,1 +1,1 @@
---!
+-- Bu alan boş, lua bilginize göre doldurabilirsiniz. Sistem açık kaynak desteklememektedir.
